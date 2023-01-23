@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WorkYourTime</string>
+    <string name="action_settings">Help</string>
+    <!-- App Stuff -->
+    <string name="first_fragment_label">Main Page</string>
+    <string name="second_fragment_label">Timer Page</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+<!--    FIRST FRAGMENT -->
+    <string name="hello_first_fragment">Hello! If you require help, then click on the \'Help\' button above. \n In case you don\'t, write down the amount of minutes you need for <b>work</b> and <b>break</b> time below:</string>
+
+    <string name="warning_blankWork">You should enter the work time!</string>
+    <string name="warning_blankBreak">You should enter the break time!</string>
+    <string name="warning_zeroWork">It\'s impossible to not work at all!</string>
+    <string name="warning_zeroBreak">You should rest at least a little!</string>
+
+<!--    SECOND FRAGMENT -->
+    <string name="hello_second_fragment" translatable="false">Hello second fragment</string>
+
+<!--    Timer Advices -->
+    <string name="advice_hugeBreak">Your break is too huge! Why don\'t you drop it a little?</string>
+    <string name="advice_tinyBreak">Your break is too small! Why don\'t you expand it a little?</string>
+    <string name="advice_massiveWork">Ooh, careful! Your work time is past 24 hours!</string>
+    <string name="advice_massiveBreak">Your break time is past 24 hours! Sure you want to rest this much?</string>
+
+    <!-- Timer Starts / Ends -->
+    <string name="workTimer_start">Concentrate! Time to work.</string>
+    <string name="workTimer_done">Time\'s up! Let\'s have a break, shall we?</string>
+    <string name="breakTimer_done">How the time flies! Now is the time to get to work.</string>
+</resources>

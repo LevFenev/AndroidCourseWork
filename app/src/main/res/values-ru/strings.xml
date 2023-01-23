@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkYourTime</string>
+    <string name="action_settings">Справка</string>
+    <string name="first_fragment_label">Главная</string>
+    <string name="second_fragment_label">Таймер</string>
+    <string name="next">Вперед</string>
+    <string name="previous">Назад</string>
+    <string name="hello_first_fragment">Привет! Если нужна помощь, перейди по вкладке <b>Справка</b>. /n Ну а если уже знаком с приложением, то введи время <b>работы</b> и <b>отдыха</b> в минутах:</string>
+    <string name="warning_blankWork">Заполните поле работы!</string>
+    <string name="warning_blankBreak">Заполните поле перерыва!</string>
+    <string name="warning_zeroWork">Нельзя совсем не работать!</string>
+    <string name="warning_zeroBreak">Нельзя лишать себя отдыха!</string>
+    <string name="advice_hugeBreak">Слишком большой перерыв! Советуем его уменьшить.</string>
+    <string name="workTimer_done">Работа завершена! Самое время отдохнуть.</string>
+    <string name="breakTimer_done">Как время летит! Пора снова взяться за работу.</string>
+    <string name="advice_tinyBreak">Слишком маленький перерыв! Почему бы Вам его не увеличить?</string>
+    <string name="advice_massiveWork">Осторожно! Ваша время работы превышает сутки!</string>
+    <string name="advice_massiveBreak">Время перерыва превышает сутки! Уверены, что хотите столько отдыхать?</string>
+    <string name="workTimer_start">Сосредоточьтесь! Время поработать.</string>
+</resources>
